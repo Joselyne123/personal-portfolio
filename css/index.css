@@ -12,3 +12,7 @@ body{
     width: auto;
     justify-content: space-between;
   }
+  nav ul{
+    display: flex;
+    list-style: none;
+  }
