@@ -44,3 +44,12 @@ font-size: 20px;
         background-color: blue;
         
       }
+      button a{
+        color:white;
+        text-decoration: none;
+      
+      
+      }
+      #sidebar img{
+        width:1000px;
+      }
