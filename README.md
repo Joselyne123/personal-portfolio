@@ -9,3 +9,4 @@ you only need internet and a browser in your machine to access this portfolia
 * you can now see everything there
 ## link to live site
 you can access this portfolio on github pages via this link
+https://joselyne123.github.io/personal-portfolio/
